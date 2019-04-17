@@ -1,0 +1,10 @@
+Flask==0.12.2
+gunicorn==19.7.1
+scipy==1.1.0
+pandas==0.22.0
+scikit-learn==0.19.2
+scikit-surprise==1.0.6
+google-cloud==0.34.0
+google-cloud-firestore==0.29.0
+stop-words==2018.7.23
+requests==2.18.4
